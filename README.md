@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+---
+
+All kinds of apps here, some board game scoring/randomizing stuff, and `react` apps that need to be built.  Just getting started programming and kind of testing everything.  
+
+The `Notes` repo is where I've started keeping all my notes in markdown.
+
 <!--
 **nickbstudy/nickbstudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
