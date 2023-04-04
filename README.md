@@ -5,7 +5,7 @@ The `Notes` repo is where I've started keeping all my notes in markdown.
 
 Also this readme might look a bit weird - using it to practice GitHub...
 
-![20221203_174914](https://user-images.githubusercontent.com/100654677/227701117-cc88c891-5ac2-478e-9ad7-6d56e6bbdbb2.jpg)
+![Mt William](https://user-images.githubusercontent.com/100654677/229944731-428da6cd-a5c2-4288-9eba-3da00ce9927e.jpg)
 
 <!--
 **nickbstudy/nickbstudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
